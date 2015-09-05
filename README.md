@@ -1,2 +1,4 @@
 # arcadian-wookie
-CQRS framework for which could not find a cool name (yet)
+CQRS framework for which we could not find a cool name (yet)
+
+IN PROGRESS
